@@ -3,8 +3,8 @@
 #include <Adafruit_Sensor.h>
 #include <DHT.h>
 
-const char* ssid = "ArabicaOffice";
-const char* password = "ArabicaPffice2020!";
+const char* ssid = "ağ adı";
+const char* password = "şifre";
 
 #define DHTPIN 27
 #define DHTTYPE    DHT11
